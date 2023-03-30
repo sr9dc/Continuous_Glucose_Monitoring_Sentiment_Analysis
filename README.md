@@ -1,5 +1,3 @@
-# 
-
 # Analyzing Social Media Sentiment of Continuous Glucose Monitoring Tools
 
 <!--
