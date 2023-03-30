@@ -31,15 +31,6 @@ For better understanding, we can draw a comparison of CGMs to tire pressure moni
 
 
 
-## Team 
-
-Sai Rajuladevi
-
-Jonathan Wang
-
-Nehal Chaturvedi
-
-
 ## Code
 
 #### [Combined Notebook](https://github.com/sr9dc/Continuous_Glucose_Monitoring_Sentiment_Analysis/blob/main/final_notebook.ipynb)
@@ -61,6 +52,14 @@ View the presentation slides.
 
 #### [Presentation](https://github.com/sr9dc/Continuous_Glucose_Monitoring_Sentiment_Analysis/blob/main/Final%20Presentation.pdf)
 
+
+## Team 
+
+Sai Rajuladevi
+
+Jonathan Wang
+
+Nehal Chaturvedi
 
 
 <!-- CONTRIBUTING -->
