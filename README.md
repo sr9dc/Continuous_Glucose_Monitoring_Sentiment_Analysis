@@ -1,4 +1,4 @@
-# Analyzing Social Media Sentiment of Continuous Glucose Monitoring Tools
+# [Analyzing Social Media Sentiment of Continuous Glucose Monitoring Tools](https://github.com/sr9dc/Continuous_Glucose_Monitoring_Sentiment_Analysis/blob/main/Final%20Report.pdf)
 
 <!--
 *** Thanks for checking out this project. If you have a suggestion
